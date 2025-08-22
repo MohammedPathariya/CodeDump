@@ -467,16 +467,5 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
 
     return handler(app, args)
 
-
 if __name__ == "__main__":
     raise SystemExit(main())
-
-
-
-
-
-
-
-
-
-
